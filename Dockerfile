@@ -1,7 +1,7 @@
-FROM httpd:latest
-
-# Copy the entire directory to the appropriate location in the container
-COPY . /usr/local/apache2/htdocs/
-
-# Expose port 80 to the outside world
-EXPOSE 80
+FROM node:14.17.5
+WORKDIR /app
+COPY package.json ./
+RUN npm install
+COPY . .
+CMD ["node","app.js"]
+EXPOSE 3005
