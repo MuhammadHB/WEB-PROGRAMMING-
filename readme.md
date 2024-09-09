@@ -31,6 +31,9 @@ git config --global user.name "MuhammadHB"
 
 git config --global user.email "oop955005@gmail.com"
 
+after that i change directory (cd)
+to : cd/oneDrive/Documents/Github/
+
 
 and after that clone the reop from Github to my PC :
 
@@ -43,13 +46,16 @@ https://github.com/MuhammadHB/WEB-PROGRAMMING.git
 after that change directory (cd)
 to:
 
-cd WEB-PROGRAMMING
+cd WEB-PROGRAMMING/
+
+after that write this command to oper VS code :
+code .
 
 
-make a connection between the Github repo and my PC project to controll will be automaticlly when I clone the repo so no need to write anycode more 
 
 
 
+in VS code in termenal 
  Add comment on any file to try after u make the comments :
 
 git add .
