@@ -110,6 +110,8 @@ After that set the port for the project:
 3- Docker run -d —name image-uploaderapp -p 8012:80 
 muhammadbunyarit/image-uploader:v1
 
+so, I go to docker hub and I pull the image of my project that I want it from docker desktop 
+
 Now everything good if i go to my docker desktop I will see image was created and container also was created so i can run my project on port 8012 in docker desktop 
 
 To deploy docker image from docker hub that i already created a repo and push the images inside it :
