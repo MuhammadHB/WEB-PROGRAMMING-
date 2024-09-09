@@ -29,7 +29,7 @@ Set up git my info to login  on git bash:
 
 git config --global user.name "MuhammadHB"
 
-git config --global user.email "Muhammad.bunyarit@gmail.com"
+git config --global user.email "oop955005@gmail.com"
 
 
 and after that clone the reop from Github to my PC :
