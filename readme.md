@@ -32,19 +32,26 @@ git config --global user.name "MuhammadHB"
 git config --global user.email "Muhammad.bunyarit@gmail.com"
 
 
+and after that clone the reop from Github to my PC :
 
-navigate to the project directory I want to push to GitHub:
-cd /path/to/your/project
+git clone https://github.com/your-username/your-repository.git
 
-For me : cd/oneDrive/Documents/Github/WEB-PROGRAMMING
+For me : 
+git clone 
+https://github.com/MuhammadHB/WEB-PROGRAMMING.git
 
-Initialize the directory as a Git repository:
+after that change directory (cd)
+to:
 
-git init 
+cd WEB-PROGRAMMING
 
-Copy the repository URL from GitHub to clone the repo 
+
+make a connection between the Github repo and my PC project to controll
 
 git remote add origin https://github.com/your-username/your-repository.git
+
+for me :
+git remote add origin https://github.com/MuhammadHB/WEB-PROGRAMMING.git
 
 
  Add comment on any file to try after u make the comments :
