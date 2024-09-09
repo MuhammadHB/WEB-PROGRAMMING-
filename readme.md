@@ -46,12 +46,8 @@ to:
 cd WEB-PROGRAMMING
 
 
-make a connection between the Github repo and my PC project to controll
+make a connection between the Github repo and my PC project to controll will be automaticlly when I clone the repo so no need to write anycode more 
 
-git remote add origin https://github.com/your-username/your-repository.git
-
-for me :
-git remote add origin https://github.com/MuhammadHB/WEB-PROGRAMMING.git
 
 
  Add comment on any file to try after u make the comments :
