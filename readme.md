@@ -99,7 +99,8 @@ After cd will be like this
 C:\Users\M\oneDrive\Documents\Github\WEB-PROGAMMING\DevOp
 
 
-And also i create in docker hub new repo named: muhammadbunyarit
+And also i create in docker hub new repo named: image-uploader
+and my username in docker hub is muhammadbunyarit
 After that 
 
 I build docker image by typing specific commands line in DevOp directory
